@@ -1,0 +1,2 @@
+# deepface_pytorch
+A pytorch implementation of DeepFace:ClosingtheGaptoHuman-LevelPerformanceinFaceVerification
